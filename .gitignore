@@ -1,0 +1,19 @@
+# Compilados Java
+*.class
+
+# Maven / build
+target/
+build/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
