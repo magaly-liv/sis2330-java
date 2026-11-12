@@ -51,9 +51,6 @@ public class Fundamentos {
         System.out.println("17 == 5: " + (a == b));
 
 
-        System.out.println("17 % 5 = " + (a % b));
-        System.out.println("17 > 5: " + (a > b));
-        System.out.println("17 == 5: " + (a == b));
         System.out.println("true && false: " + (x && y));
         System.out.println("true || false: " + (x || y));
         System.out.println("!true: " + (!x));
