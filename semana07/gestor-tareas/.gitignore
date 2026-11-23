@@ -1,0 +1,14 @@
+# Generado por Maven
+target/
+
+# Generado por Vaadin en modo desarrollo
+node_modules/
+package.json
+package-lock.json
+vite.config.ts
+vite.generated.ts
+tsconfig.json
+types.d.ts
+frontend/generated/
+src/main/frontend/generated/
+src/main/bundles/
