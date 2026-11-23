@@ -39,6 +39,13 @@
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-spring-boot-starter</artifactId>
     </dependency>
+
+    <!-- Servidor de desarrollo de Vaadin: necesario para mvn spring-boot:run -->
+    <dependency>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-dev</artifactId>
+      <optional>true</optional>
+    </dependency>
   </dependencies>
 
   <build>
